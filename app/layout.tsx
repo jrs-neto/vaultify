@@ -10,7 +10,7 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
   title: "Vaultify",
-  description: "Vaultify - The only storage solution you need.",
+  description: "Vaultify - The only vault solution you need.",
 };
 
 export default function RootLayout({

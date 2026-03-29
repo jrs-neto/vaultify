@@ -1,4 +1,4 @@
-# Vaultify - Storage & File Sharing Platform
+# Vaultify - Vault & File Sharing Platform
 
 ## Plataforma moderna de armazenamento e compartilhamento de arquivos | Portfólio Profissional
 
